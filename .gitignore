@@ -1,0 +1,9 @@
+Potenciacion.csproj
+Potenciacion.sln
+Potenciacion.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
